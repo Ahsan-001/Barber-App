@@ -1,0 +1,49 @@
+name: barber
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.9.0
+  firebase_auth: ^4.2.2
+  cloud_firestore: ^4.5.0
+  get: ^4.6.1
+  otp_text_field: ^1.1.2
+  glyphicon: ^0.3.0
+  loading_animation_widget: ^1.1.0+3
+  form_field_validator: ^1.1.0
+  intl: ^0.18.0
+  group_radio_button: ^1.2.0
+  dropdown_button2: ^2.0.0
+  lottie: ^2.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+  
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>678338510146-4e155a58n5ktl13jucb85ikts4ss9g9v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.678338510146-4e155a58n5ktl13jucb85ikts4ss9g9v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>678338510146-7ildf71csq1k8rjp5ukhc3320p6pgvnl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuuHFuQ6FS1JzEcEwtMi46itba9_vmpDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>678338510146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.danial.barber</string>
+	<key>PROJECT_ID</key>
+	<string>barbar-ee478</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barbar-ee478.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:678338510146:ios:839c2f0ac20b7860b7dcdb</string>
+</dict>
+</plist>
